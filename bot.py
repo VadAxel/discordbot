@@ -1,5 +1,6 @@
 import discord
 import PySimpleGUI as sg
+
 #importerar funktioner från filer
 from data_API_func import data_API_func
 from url_func import url_func
