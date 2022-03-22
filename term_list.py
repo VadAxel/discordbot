@@ -1,0 +1,2 @@
+#lista över informationstermer som jämförs mot user request. Om de inte matchar startar 'if' satsen i response_func.
+term_list = ['AssetType', 'Name', 'Description', 'Exchange', 'Currency', 'Country', 'Sector', 'Industry', 'PEGRatio', 'PERatio', 'ReturnOnEquityTTM', 'PriceToSalesRatioTTM', '52WeekHigh', '52WeekLow', '50DayMovingAverage']
