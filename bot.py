@@ -27,5 +27,5 @@ async def on_message(message):
         await message.channel.send('Syntax: Företagssymbol Informationsterm Informationsterm Informationsterm ...' + '\n\n' + 'Informationstermer: \nAssetType \nName \nDescription \nExchange \nCurrency \nCountry \nSector \nIndustry \nPEGRatio \nPERatio \nReturnOnEquityTTM \nPriceToSalesRatioTTM \n52WeekHigh \n52WeekLow \n50DayMovingAverage')
 
 #personlig bot-nyckel.
-client.run('OTM4MDI0MDIyMDE1MzczMzcy.YfkQ8g.gZLTwqVq2oiVQd-zEkWaFNHq1HA')
+client.run('key')
 
